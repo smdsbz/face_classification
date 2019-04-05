@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-__author__ = '__main__'
+__author__ = 'Xiaoguang Zhu'
 
 ''''''
 
